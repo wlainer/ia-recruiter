@@ -1,0 +1,4786 @@
+c#
+php
+elixir
+js
+jquery
+f#
+java
+ios
+android
+tdd
+ddd
+azure
+sql
+oracle
+ruby on rails
+ruby
+vb.net
+oracle 11g
+sql server
+css
+asp.net
+windows forms
+design
+logo
+corporate visual identities
+graphic design
+ux design
+marketing and digital marketing plan and management
+css 3
+unity3d
+3d studio
+scrum
+javascript
+python
+angularjs
+html
+unity
+pm
+pmi
+wordpress
+laravel
+zend framework
+hubspot
+linux
+jee 4/5/6/7
+spring
+actions beans
+weblogic
+jboss eap/wildfly and jboss as
+primefaces
+uml
+java patterns
+hornetq
+java sdk 1.5 1.6 1.7 and 1.8
+slsb singleton and mdb messages
+hibernate 3 and 4
+c
+c++
+c for microcontroller
+microsoft office
+engineer
+autocad
+solid edge
+electronic
+hardware
+hardware design
+english
+italian
+lean manufacturing
+six sigma
+iso
+kaizen
+5s
+testing
+instrumentation.
+.net
+mvc
+wcf
+webservices
+nhibernate
+html5
+bootstrap
+json
+oo
+business analyssis
+great communication
+mysql
+postgresql
+rcv
+itil expert in it service manager certified � completed in 06/2014
+itil managing across the lifecycle (malc) - exin - completed in 03/2014
+itil service capability modules management intermediate (osa
+soa and ppo) - exin - done in 12/2013
+english college course at toronto city ca - cultural exchange at els school - done in 08/2013
+itil service management foundation syllabus 2011 - exin - done in 05/2012
+cobit foundations 4.1 - isaca - completed in 04l/2012
+microsoft certified it professional windows 2008 server admin - ka solution - done in 03/2012
+training in risk analysis - risk manager - done in 10/10
+pdl - development plan leaders - stefanini training - completed 10/2009
+project management based on pmbok 3rd and 4th edition - it exams - completed in 08/2009
+mcp - microsoft certified professional - completed in 07/2009
+microsoft certified systems administrator windows 2003 - ka solution - done in 06/2009
+java j2ee
+jsf
+jsp
+hibernate
+ejb
+jpa
+jasperreports
+ireport
+eclipse
+netbeans
+adobe fireworks cs6
+swift
+objective c
+web development
+ios development
+delphi; mysql; firebird; java; oop; linux; shell script;
+web design
+branding
+research
+unity 2d
+xna
+css3
+agile development methodology
+asp.net mvc
+codeigniter
+mssql server
+firebird
+wpf
+webforms
+mvc 2
+mvc 3
+mvc 4
+windows presentation foundation
+windows communication foundation
+microsoft entity framework
+delphi
+crm
+erp
+rest
+soap
+pl/sql
+git
+gwt
+interpersonal skills
+arduino
+automation
+digital art
+zbrush
+3dsmax
+after effects
+animatronic
+digital sculpt
+clay sculpt
+javascript; css; html; node; c#; java
+helpdesk
+network administrator
+active directory
+windows server
+iso 27001
+iso 27002
+node.js
+plc's
+frenquency inverter
+networks(modbus and lon works)
+preventive and corretive maintenance
+intallation of new projects.
+yii
+crystal reports
+data modeling and systems analysis
+nodejs
+materialize
+mongodb
+\y background is in responsive web design and front-end. i have worked as a web designer and front-end since 2009 and i'm passionate about the digital area. 
+\
+also the designer must to be able to thinking about creativity strategies and solutions that takes into account usability
+interaction and practicality of the product to interact with the users. this means knowing the traditional ways to utilize xhtml and css but also know when to cut away and implement fresh perspectives and how give a practice and attractiv\ navigation for users.
+\
+i have a keen sense of what users are looking for
+and i can back it up with experience in both front-end and graphic design aspects of web development. as well
+i take into the important to consider details and full view in a project.
+maya
+vray
+3d
+2d
+graphic
+digital
+java android
+windows
+design patterns
+grunt
+java and c#.
+coreldraw
+flash
+fireworks
+premiere
+dreamweaver
+muse
+xd
+acrobat
+word
+power point
+excel
+simple text
+facebook ads
+social media
+google ads
+google trends
+twitter ads
+google analytics
+seo
+marketing
+youtube ads
+xml
+clear basic
+visual basic
+analysis
+music production
+logic pro
+less
+asp
+unreal
+computer graphics
+ajax
+itil
+ios; android; windows phone; java; c#;
+adobe illustrator
+adobe photoshop
+adobe indesign
+adobe premiere
+adobe after effects
+business and commercial writing
+business administration
+finacial management
+team worker
+french
+holistic view
+microsoft sql server
+oop
+mysqli
+pdo
+smarty template engine
+restful web service
+aws
+xhtml / html
+twitter bootstrap
+less / sass
+linux / ubuntu
+lamp
+xmpp
+ejabberd
+socket.io
+jquery mobile
+phonegap
+cordova
+tsql
+postgres
+jboss
+primefaces.
+oracle; sales force; leadership; manager strategy; planning strategy; sales; business strategy; streaming; broadcaster; photoshop; corel draw; amdocs; camtasia; open broadcaster; negociation; microsoft officer; mobile; gemco; marketing intelligence; credit risc
+retail; google adwords; google analytics; google adsense; facebook adsense; social media; market intelligence
+tableless
+responsivelayout
+wamp
+mamp
+scala
+play framework
+spring framework
+spring mvc
+spring batch
+clean architecture
+cqrs
+\ysql
+\irebird
+\avascript
+\ava
+php
+visual studio
+entity framework
+classic asp
+javascript - jquery
+css3 - (sass - stylus)
+javascript - (coffeescript)
+pixijs
+phaserjs
+phonegap (build/cli)
+gulp/grunt
+actionscript 3
+github
+bitbucket
+svn
+sass
+compass
+junit
+j2ee
+apache
+gnu/linux
+java ee
+tomcat
+java enterprise edition
+jboss application server
+web services
+servlets
+maven
+sun certified java programmer
+struts
+j2se
+software development
+software engineering
+javase
+subversion
+iphone
+iphone development
+objective-c
+microchip pic
+java me
+agile
+terracotta
+clojure
+groovy
+grails
+ionic framework
+websocket
+open edx
+docker
+ansible
+vagrant
+demoiselle
+vuejs
+react
+\avascrit
+\ava
+\+
+\tml
+php
+test planning and test script
+crm 2011/2013
+web api
+wpf.
+visual c++
+trac
+jira
+xsd
+soapui
+bash script
+jenkins
+log4j
+devops
+express
+html5/css3
+design patterns and web design responsive.
+postgress
+web design responsive
+3d studio max
+microsoft servers
+java script
+linq
+web forms
+microsoft visual studio
+iis
+flex
+windows and linux servers
+batch script
+squid
+iptables
+dns
+dhcp
+ms office
+mac os
+google apps
+network
+switchs layer 2 and 3
+business foundation
+gpo
+pfsense
+firewall
+network security
+webapi
+ux
+ui
+ia
+wireframe
+prototype
+brainstorm
+sketch
+a/b tests
+user flows
+user stories
+data analysis
+user feedback
+unix
+monogame
+research&development
+3d studio max html5
+react.js
+css3 animation
+gulp
+jekyll
+invision
+sap basis
+autodesk 3ds max
+bind9
+samba
+windows server 2008
+iptables firewall
+palo alto networks
+fortinet
+adwords
+analytics
+digital marketing
+mailchimp
+bash
+cloud
+openstack
+xen
+vmware
+debian
+kvm
+virtualization
+nagios
+zabbix
+san
+vb6
+comti
+kanban
+?javascript/jquery
+css/css3
+npm
+bower
+smarty
+memcached
+apache solr
+single-�page applications
+responsive web design
+lazy load
+high performance web sites
+web standards
+dynamic script loader
+singleton
+peoplesoft
+peoplecode
+application engine
+sqr
+oracle sql
+oracle db
+ibm db2
+programming
+3d desig
+3d printer
+solidworks
+inventor
+windowns
+cnc
+android scrum
+data base
+jee
+soa
+mentawai
+orm
+databases
+cobit
+pmbok
+backbone.js
+ember.js
+agile methodologies
+agile project management
+r programming
+business metrics
+big data
+data science
+vraptor
+pen and paper
+trello
+responsive design
+java web
+laravel 5
+jboss seam
+fashion designer and product
+entrepreneurship
+java se
+java swing
+c# winforms
+application developer
+business applications
+java developer
+pos systems
+java programming language
+jsf - javaserver faces
+subversion (tortoisesvn)
+sql (mysql, postgresql)
+tomcat server
+primefaces framework
+glassfish server
+weblogic server
+jpa - java persistence api
+japanese
+qlikview
+microsoft windows server 2003
+microsoft windows server 2003 r2
+microsoft windows xp
+microsoft windows server 2008
+microsoft windows server 2008 r2
+microsoft windows 7
+microsoft windows server 2012
+microsoft windows server 2012 r2
+microsoft windows hyper-v server 2008
+microsoft windows hyper-v server 2012
+microsoft windows 8
+microsoft windows 8.1
+microsoft windows 10
+microsoft windows hyper-v server 2012 r2
+esxi vmware vsphere
+vmware workstation
+mac os x tiger
+mac os x snow leopard
+mac os x lion
+mac os x mountain lion
+mac os x mavericks
+mac os x yosemite
+apple iphone
+apple ipad
+apple ipod
+apple imac
+microsoft exchange 2010
+microsoft exchange 2013
+microsoft office 2007
+microsoft office 2010
+microsoft office 2013
+microsoft office 365
+infrastructure
+spring boot
+sharepoint
+rest apis
+user experience
+user interface
+prototyping
+wireframing
+webdesign
+adobe  illustrator
+adobe experience design
+site map
+information architecture
+linux sysadmin
+voip elastix
+intermediate spanish
+moodle elearning
+xenserver
+vmware server
+vmware esx
+firewall (shorewall,iptables and endian firewall)
+android sdk
+data integration - enterprise
+ibm datastage
+jaspersoft reports
+microsoft sql server integration services
+microsoft visual basic
+oracle - 11i
+oracle application-plsql
+oracle-soa suite
+spring-batch framework
+visual basic (excluding vb.net & vba)
+bpm
+asp.net mvc developer
+xamarin
+outsystems
+dataflex
+visual dataflex 7
+sql server 2012
+ruby on rails - intermetiate
+jcl
+html4
+oracle java
+tso ispf
+cics
+mainframe cobol
+changeman
+html5, css3, bootstrap, sass, javascript, jquery, angularjs, cordova.io, wordpress, intel xdk, objective c, swift, qml, git, lean startup...
+drone
+pixhawk
+mavlink
+macos
+oracle database administrator (8,8i,9i,10g,11g and 12c)
+java ee developer (ejb,jpa, jax-rs, jax-ws)
+scrum partitioner
+sql and oracle pl/sql developer
+gradle, ant, maven knowledge
+linux: ubuntu server, centos, red hat and suse
+ibm aix administrator
+ibm tivoli storage manager administrator
+basic android knowledge
+zendframework 2
+autocad 2d
+autocad 3d
+mentalray
+texturing
+shadding
+lighting
+rendering
+image manipulation
+post production
+photograph
+forestpack
+railclone
+hair&fur
+scss
+phpoo
+mariadb
+nginx
+javaee
+hadoop
+angular material
+rich faces
+prime faces
+nexus
+postgree
+post gree
+java standard edition 6 programmer certified professional
+asp.net web forms
+phyton
+css 3, programmer
+work with laravel framework.
+work with jquery framework
+work with foundation,bootstrap and other front-end frameworks
+�\  strong background in programming language java, java web, c, c++, .net, vb6, delphi, php,java html, java script, css
+ms office, internet and email
+databank modeling
+rup, requisite analysis
+databank (access, sql server 2000,2008,2010,2012, oracle, sybase, trigger, store procedure, batches, functions)
+�\  knowledge in programming languages for mobile applications: android, ios
+software testing
+microsoft test manager
+jmeter
+portuguese
+bpmn
+php, css 3, javascript, html 5
+i know work in teams, there were situations that required the thought together to solve problems in daily life , it was very good relationship so that the project could be done, the conversation and attempts to find errors and thus make the the customer leave satisfied.
+i am hardworking , the last company where i worked , i grew up very professionally and soon it was responsible for the deployment and operational environments of customers due to the process that created so that there were no problems in operating and if there was the return of the backup was as soon as possible not to have stops and damage to it, i was also responsible for organizing some customers to adapt it .
+i'm flexible , although changes seem somewhat daunting to many people, like challenges and how the experience changed my many clients and ways of working in the last company always renewing the thinking bringing a great personal and professional growth.
+database systems
+project maneger
+statistics
+java development
+professor
+r for statistical computing
+advanced knowledge of design and execution of tests cases
+advanced knowledge of utilization of quality center tools.
+intermediate knowledge of performance tests (jmeter).
+intermediate knowledge of ms visual studio.
+basic knowledge of languages c, c#, java, cobol, html.
+knowledge of uml, scrum, kaban, analysis and data modeling, analysis of requirements.
+ability to create data to execution tests
+knowledge in jira tool
+development of documentation pre and post project - use case, diagrams, systems manuals.
+quality assurance
+less and sass
+vue.js
+composer and npm
+video producer
+oracle data integrator
+oracle golden gate
+ibm tivoli monitoring
+ibm omnibus
+mqseries
+jms
+oracle service bus
+shell scripts
+system developer
+unity 3d
+android development
+.net framework
+game development
+serious games
+focus on results
+team leadership
+google web toolkig
+resteasy
+google web toolkit
+springmvc
+restful api
+razor mvc
+native brazilian portuguese
+basic linux administration (debian and redhat)
+symfony(intermediate)
+strong background in programming language  .net-c# ,  php, css, html, js
+php(zend and symfony(intermediate)
+js(electron, npm, bower) for descktop application
+c#( asp.net, wpf and windows forms)
+javaee(jsf ) - basic
+django
+spring security
+spring data
+version controll
+c/c++
+windows servers
+software developer
+pages
+keynote
+microsoft powerpoint
+microsoft word
+design thinking
+project manager
+ruby on rails (begginer)
+android studio (begginer)
+data warehouse
+ilustrator
+html5 + css3
+corel drawx7
+photoshop cs6
+flash cs6
+dreamweaver cs6
+unity5
+game maker 1.4
+java (android)
+my sql
+action script
+video production
+visual brand identity
+editorial design
+oracle ebs consultant
+art direction
+storytelling
+front-end web development
+user interface design
+promob
+scketch up
+html5 and css3
+database design
+problem solving
+microservices
+software architecture
+jpa 2
+saiku
+sql server 2014
+kettle
+mysql database
+microsoft sql server 2014
+system development
+microsoft visual c#
+front end
+ux designer
+microsoft system center virtual machine manager 2012 r2
+c++ programmer
+gis
+crisc - certified in risk and information systems control�
+computer hacking forensics investigation
+comptia security+
+mcafee epo security
+symantec data loss prevention
+itil v3 foundation
+microsoft security latin american academy
+novell small business specialist
+barracuda antispam
+varonis
+gfi security
+sophos utm - proxy security
+digital law
+mcafee drive encryption
+mcafee hips
+security awareness program
+sophos webfiltering
+mcafee siem
+mcafee device control
+mcafee dlp
+security controls
+bcp, drp, orp
+digital protect brand
+information system security audit
+vulnerability management
+security and risk management
+asset security
+identity and access management (oracle)
+security assessment and testing
+security operations
+c# - intermediate
+asp.net - intermediate
+sql server - intermediate
+office pack
+"php"
+router
+wireless
+bgp
+ospf
+vss
+port-channel
+wan
+ccna
+ccnp
+ccna r&s
+ccnp r&s
+object orientation
+rip v2
+mpls
+catalyst
+eigrp
+hsrp
+glbp
+vrrp
+i.t
+computer network
+elementary os
+e-commerce
+go lang
+elixir lang
+phoenix framework
+computer engineer
+mvc modeling
+parallel computing (cuda)
+web developer
+sap erp implementation
+systems integration
+data migration
+sql server t-sql
+alm
+continuous integration
+tfs
+itil foundation certified
+�\  mcts: .net framework 4, data access
+mcts: silverlight 4, development
+mcts: .net framework 4, web applications
+mcts: .net framework 4, service communication applications
+mcpd: windows phone developer
+mcpd: web developer 4
+mcpd: silverlight developer 4
+microsoft windows 7, 8 and 10
+microsoft office 2010, 2013, 2016 and 365
+microsoft sharepoint
+tcp/ip
+mobile devices
+networking software
+networking hardwares
+networking security
+microsoft outlook
+citrix
+asp.net-mvc
+asp.net-core
+sql-server
+web-api
+sap abap
+workflow
+webdynpro
+ui design
+icon design
+sass/css3
+adobe lightroom
+adobe dreamweaver
+logo design
+branding & identity
+html, css, sass, javascript, jquery, angularjs, android, polymer, gulp, bootstrap, material design lite, c#, java, php, mysql and elasticsearch.
+html, css, sass, javascript, jquery, angularjs, android, polymer, gulp, jekyll, bootstrap, material design lite, c#, java, php, mysql and elasticsearch
+html5, css3 and javascript
+angular js
+selenium
+hana
+analise de requisitos, testes de sistemas
+adobe experience design cc
+ui/ux design
+motion graphics
+music producer
+autodesk maya
+adf
+gamification
+educational systems (vle)
+web semantic
+ontologies
+prince2 certified
+o\  qa director practitioner avanade certified
+qa director certified
+advanced spanish
+business intelligence
+cognos
+infosphere
+reporting
+dashboarding
+olap
+user experience design
+strong background in client/server programming, using technologies such as java, html, css, spring, web services, sqlserver, mongodb, mysql
+digital design
+illustration
+adobe creative suite softwares
+html and css intermediate
+digital illustration
+ux ui design (studying)
+liferay
+photoshop cc
+endomarketing
+woocommerce
+sem
+google adwords
+google webmasters tools
+modo
+unreal engine
+jdbc
+sap workflow
+sap fiori
+sap gateway
+web dynpro abap
+leadership
+sap pi
+performance improvement of programs
+quality assurance of program codes
+technical documentations
+estimation for sale proposals
+centos
+typescript
+floss
+inkscape
+gimp
+social participation
+innovation
+open source
+government
+public policy
+cakephp
+stupid kiss solid
+illustrator cc
+indesign cc
+lightroom cc
+photography
+check
+study to cissp
+source fire
+websense
+cisco ironport
+ids/ips
+antispam sms
+antispam sms jinny enghouse
+pci
+symantec antispam
+csirt
+sox
+visio
+adobe audition
+adobe flash
+soundforge
+optimizepress
+copywriting
+mule
+jersey
+epl2
+inno setup
+pascal scripting
+devexpress
+visual studio sdk
+vsix
+yii framework
+elastic searc
+elastic search
+manga studio for illustrations
+2d animation
+watercolor
+oil painting
+watercolor painting
+artist
+character design
+always smiling
+great energy
+love art
+draw
+paint
+express.js
+gitlab
+varnish
+varnish cache
+drupal 7
+neo4j
+microsoft specialist - c#
+microsoft specialist - html5 with javascript and css3
+mcps: microsoft certified professional
+jade
+es2015
+pki
+public key infrastructure (pki)
+windev
+webdev
+sencha (extjs)
+cold fusion
+digital signature
+0
+redis
+german
+windows phone
+influencer
+it solution strategic
+social media coordinator
+online advertising
+digital media
+creative strategy
+mobile marketing
+keynote speaker
+latin america
+market research
+risk management
+new media
+engagement
+blackberry
+middle east
+gulf countries
+executive relationship
+linkedin
+trademarketing
+bscs
+support
+administrator network
+storage
+backup
+remote access
+windows services
+ninject
+google app engine
+google datastore
+jasminejs
+knockoutjs
+jinja2
+chef
+goal oriented
+0
+well-oriented thoughtfulness
+abap
+ariba cloud integration
+0
+dedication to getting facts right
+sap hana
+process integration
+data service
+tv broadcast data
+tv broadcast data service
+arabic market
+youtube content specialist
+medium
+raspberry pi
+forever/pm2
+firebase
+pouchdb
+sqlite
+asp.net web api
+mandrill
+specializations:systems integration, process design, architecture design. emphasised on quality, efficiency, discipline and accuracy.
+ims
+db2
+power designer
+b2c
+b2b
+user interface to brazilian
+amazon web services
+sap best practices
+accessibility
+openlayers
+geoserver
+cdi
+spanish
+data center
+it infrastructure
+event-b
+mips
+netflix api
+guava
+guice
+java 8
+prestashop
+ged
+mba
+vba
+mobile development
+substance designer
+marvelous designer
+unreal engine blue print
+interior design
+archviz
+game design
+architecture
+internet marketing
+launch planning and execution
+e-mail marketing
+digital marketing strategies
+product launch: planning and execution
+facebook marketing
+content marketing
+inbound marketing
+rhinoceros
+intermediate french
+human centered design
+advertising
+jstl
+extjs
+xsl
+ant
+progress
+sql�server
+postgresql
+velocity
+cvs
+mks
+rtc
+rad
+was
+wps
+richfaces
+icefaces
+interaction design
+strategy
+axure
+sonar
+scrummaster
+negotiation
+mcsa
+hyper-v
+lync server
+skype for business
+system center
+isa server
+tmg server
+sonicwall
+office 365
+dell servers
+dell storage
+bakup systems
+backup tools
+exchange server multi-tenant
+lync server multi-tenant
+powershell
+scripts
+powershell scripts
+cluster
+throubleshoot
+governance
+management
+data mining
+cmmi certificate
+algorithm
+framework zk
+basic knowledge of languages python and r
+requirement analysis
+theorical knowledge in machine learning algoritms
+theorical knowledge in hadoop ecosystem
+big data concepts
+blender 3d
+prezi
+iso 20000
+green it  citizen
+capm
+baan
+dba
+ms project
+domain drive design
+vpn
+vlan
+firewalls
+routing
+switching
+3d engine
+3d engine development
+artificial intelligence
+joomla
+communication
+mind mapping
+customer support
+social marketing
+marketing communications
+strategic planning
+marketing strategy
+events management
+cloud computing
+patience
+technical skills
+clear case
+software configuration management
+0
+tableau
+0
+sizing
+solutions architecture
+topology
+mcad
+mcsd
+microsoft certified trainer
+certified information systems auditor
+project management professional
+internal control
+itgc
+omg certified expert in bpm
+jsf2
+system architect
+struts2
+ibm websphere
+h2 database
+motivated
+hard-working
+mulit-tasking
+project lead
+consultant
+proposition development
+profit center management
+marketing analytics
+revenue forecasting
+pricing analysis
+marketing operations
+relationship management
+channel strategy
+lideran�a de equipe
+microsoft access
+qualtrics
+bi
+meteor
+polymer
+elasticsearch
+openspan
+microstrategy
+teradata
+ccnp voice
+ccda
+ccna voice
+ccna video
+video network specialist
+ccai
+visual design
+product design
+animation
+lucid chart
+sap bw
+sap bpc
+sap bo
+cassandra
+api
+computer science
+185
+interviews
+card sorting
+personas
+usability testing
+sublime text
+gantt
+fedora
+html, css, sass, jquery, ajax
+keyshot
+fast learner
+think outside the box
+work well under pressure
+web maps
+educational technology
+educational instructor
+etl
+pmp
+integration services
+phpunit
+dropbox api
+facebook graph api
+regression testing
+define scope
+process analysis
+functional specifications
+support developers
+support tests
+user acceptance testing
+cost-benefit analysis
+review technical codes
+oracle e-business suite
+internet of thing
+0
+internet of things
+apache camel
+adobe xd
+microsoft office suite
+hootsuite certified professional
+community building
+community manager
+aurelia
+sybase
+thymeleaf
+jackson
+oracle commerce
+atg
+cpanel
+opencv
+mikrotik router
+esb
+integration architecture
+dependency injection di
+lms
+loopback
+doctrine
+dropwizard
+ccie collabora
+ccie collaboration
+pattern making
+semantic ui
+it management
+pmo specialist
+churn management
+operations management
+satellite communications
+customer management
+customer oriented
+pmbok
+cobit certified
+premiere pro cc
+dreamweaver cc
+magento
+cost control
+heroku
+mobile design
+startups
+self-taught
+capacity plan
+project 2013
+polycom
+revit mep
+embedded devices
+archlinux
+qt
+gtk
+3d art
+3d coat
+vision in product design
+erp jdedwards
+erp jdedwrds toolkit and financial reports
+audity
+system analysis
+fraud detection
+0
+scrapy
+celery
+flask
+web crawling
+nosql
+machine learning
+pmi
+iso 9001
+management of networks
+java server pages
+abalysis
+documentation
+0
+perl
+websphere mq
+websphere application server
+ibm watson explorer
+enterprise search
+ihs
+free hand
+vector art
+photo retouch
+floor plan
+0
+0
+0
+sap pp
+sap pm
+sap b1
+sap wm
+constru
+construct2
+object oriented analysis and design
+distributed systems development
+microsoft dynamics
+requirejs
+spring jdbc
+scrum master
+agile coach
+planning poker
+estimation
+user story priorization
+mcse
+ca spectrum
+ca ehealth
+ca infrastruture management
+data privacy applications
+coding and modularization
+qa tools
+product templating
+realm
+intel xdk
+software development: agile development, test-driven development, scrum and v-model.
+pre-sales
+languages: j2se, j2ee, c/c++, c#, uml, pl/sql, design patterns, javascript (angular, ember, jquery, react), html5, css, jsp, jsf, php, python, ruby on rails.
+cisco technologies
+ccnp service provider
+mef cecp
+ipv6 gold engineer
+rfp
+v-model
+bugzilla
+httpunit
+ireports
+matlab
+opencl
+gpu
+mapreduce
+rabbit mq
+crystal lang
+lxc
+humhub
+ctfl foundation
+microsoft team foundation server
+jubula
+testlink
+presentation
+typography
+app design
+akka.net
+corporate communication
+innovation management
+phpstorm
+web application security
+information security
+owasp
+computer forensics
+vulnerability assessment
+secure coding
+code review
+pci-dss
+secure programming
+computer security
+application security
+security+
+malware analysis
+reverse engineering
+network analysis
+ceh
+nessus
+nmap
+metasploit
+owasp zap
+burp suite
+back-end development
+genexus 8, 9, x ev1, ev2, ev3
+business analysis
+as400
+iss
+sap r3
+change management
+pentaho
+aspnet mvc
+digital forensics
+encase
+ftk
+ftk imager
+mac os x el capital
+gcih
+incident response
+gcfe
+windows forensics
+network forensics
+evidence tampering
+e-discovery
+compliance
+military skill
+red hat
+security officer
+public sector
+backup systems
+continui
+continuity plan
+dream factory
+rspec
+capybara
+clean code
+yeoman
+cucumber
+0
+blazemeter
+confluence
+fitnesse
+ctfl foundation agile tester
+ctal-ta - test analyst
+test link
+network infrastructure
+shorewall
+assembly
+ubuntu server
+pascal
+electronics engineering
+0
+hapi.js
+sails.js
+stylus
+webpack
+ogre3d
+lua
+cache
+mvvm
+telerik
+sql databases
+angularjs (basic)
+continuos deployment
+remote work
+international projects
+cobol
+offshore
+zurb foundation
+customer experience
+freebsd
+system administrator
+ipfw
+pf
+mikrotik
+radius
+vpls
+openvpn
+ipsec
+openbsd
+tinybsd
+proxmox
+lead generation
+tcl
+windows drivers
+x86-64 assembly
+uvm
+asic
+dft
+fpga
+vhdl
+verilog
+systemverilog
+systemc
+timing analysis
+synthesis
+verification
+quartus
+modelsim
+rtl compiler
+encounter timing system
+encounter test
+ius
+ius platform
+arm
+pci express
+usb
+isdb-t/dvb-t
+tcp-ip
+front-de
+reactjs
+ionicframework
+java, scala
+spark
+spark-sql
+spring integration
+scea
+scmad
+scbcd
+scwcd
+scjp
+bitcoin
+ethereum
+blockchain technologies
+documentum
+alfresco
+bonita
+powerbuilder
+java (5, 6, 7), java j2ee, javascript, xml, html, css, json, c#, vb.net, c/c++ (visual c++), visual basic 6, asp.net, clipper, foxpro, foxbase, cobol and basic
+bdd
+clipper
+javafx
+cad
+simulation
+continuos integration
+protractor
+percona
+monit
+kendo
+kendoui
+abap
+speak english
+sap abap developer
+pomodoro technique
+querydsl
+angular2
+brocade
+natural
+friendly
+driven
+restify
+siem
+spring social facebook
+spring social twitter
+tornado
+mockito
+xp programming
+lambda expressions
+information retrieval
+teamwork
+operating systems
+rca
+model driven architecture
+smartplant instrumentation
+smartplant electrical
+smartplant 3d
+smartplant p&id
+smartplant foundation
+automation projects
+dynamics crm
+0
+lotus notes
+ecommerce
+it audit
+isa3402 audit
+sas70
+ssae16
+sdlc audit
+acl
+idea
+pl/pgsql
+z/os
+google cloud message
+telecommunication
+google  app engine
+playframework
+openmp
+mpi
+accounting
+java server faces
+parallel computing (c++)
+boost
+bea weblogic
+eloquent
+symfony 2
+jquery ajax
+vsam
+smart-restart
+zos
+sse
+highcharts
+spock
+rig
+graph databases
+react native
+bottle
+morphia
+ibatis
+obiee
+hyperion
+informatica power center
+multidimensional modeling
+microsoft project
+wbs chart
+erwin
+bi architecture
+desenvolvimento de sites
+website development
+oracle rman
+oracle dataguard
+oracle exadata
+oem 12c - oracle enterprise manager cloud control 12c
+performance and tuning
+oracle real application cluster - oracle rac
+oracle linux
+aix
+hp-ux
+solaris
+sql tuning
+oracle rac
+rman
+backbonejs
+appgyver
+ionic2
+salesforce
+universal windows platform
+oracle enterprise manager
+sql server cluster
+ms cluster service
+cocoa
+cocoapods
+cocoa touch
+rwd
+smacss
+bemcss
+grunt; gulp
+task runner: grunt, gulp
+browserify
+smacss; bemcss; oocss
+oocss
+coding standards
+product management
+lean startup
+e-learning
+xcode
+scritpcase web developer - rad
+coach
+coaching
+internal audit
+windows client
+java architect
+spring framework/mvc/webservices
+mule (esb)
+activemq
+axis2
+spring webservices
+spring webmvc
+xmlbeans
+annotations
+oc4j
+wildfly
+continuum
+ejb3
+jfreechart
+virtual reality
+augmented reality
+processing
+0
+public speaking
+teaching
+physics apis
+opengl
+0
+apache activemq
+enterprise integration patterns (eip)
+asterisk
+easytrieve
+iso 38500
+fluent english
+basic french
+basic spanish
+experience in web application development & site designing
+spss
+powerbi
+jetty
+microsoft certified system administrator
+microsoft certified system engineer
+microsoft certified trainer
+citrix certified administrator for presentation server
+cisco certified networking associate
+qlikview system administrator
+qlik sense system adminitrator
+graylog
+lvm
+postfix
+informix
+process improvement
+articulation
+business planing
+kpi development
+titanium
+adobe muse
+sony audio forge
+customer success
+rdz
+file-aid
+control-m
+mainframe express
+roscoe
+entityframework
+oracle forms
+oracle reports
+linux developer
+linux kernel
+alcatel technologies
+enterasys technologies
+hp blade servers
+centreon
+0
+regular expressions
+openshift
+require.js
+quality center
+uft
+jscript
+test management
+plone
+ms sql server
+twig template engine
+zend studio
+microsoft sql server management studio
+zend server
+production support
+gitflow
+fullstack development
+linode
+digital ocean
+windows azure
+pentest
+lotus domino
+collaboration
+smartcloud
+xenapp
+kaspersky manager
+emc vnxe
+glpi
+zimbra
+postifix
+oauth2
+osgi
+jaxb
+jvm
+shellscript
+freecode
+corporate finance
+cpre
+pl/sql,
+hp quality center
+insurance
+consulting
+togaf
+ibm rational system architect
+eams
+enterprise architecture
+vbscript
+finance
+angular-seo
+hybrid app
+deploy
+hapro
+haproxy
+glusterfs
+high availability
+mobile commerce
+codeception
+test automation
+0
+sidekiq
+resque
+passenger
+sparql
+delphi xe
+birt
+dunit
+trade marketing
+website administration
+mobile applications
+information technology
+service management
+it operations
+system administration
+it strategy
+service desk
+team management
+technology planning
+business process
+help desk support
+disaster recovery
+project planning
+it outsourcing
+it project management
+help desk management
+it governance
+microsiga/protheus
+budgetary management
+green technology
+interface design
+pure css
+0
+html 5
+test case
+cuda
+ldap
+rdf
+nlp
+owl2
+vcenter
+vsphere
+nfs
+rackspace
+algolia
+portfolio management
+mercurial
+istqb's ctfl
+ireb's cpre
+ireb's cpre-fl
+estrategia
+procesos de negocio
+wix.com
+canvas
+etom
+tam
+microsoft excel
+progress 4gl
+openedge progress
+sound designer
+artist 3d
+product owner
+use case
+riot.js
+mochajs
+liquid
+coffeescript
+xpath
+android api
+rxjava
+kotlin
+algorithms
+mesos
+marathon
+capistrano
+box2d
+java ee 6 web services developer certified
+cobit 5
+intellectual curiosity
+transformati
+cloudstack
+troubleshooting
+lead designer
+support analyst
+haml
+ssl
+rfid
+iot
+dapper
+windows syadmin
+xtreme switches
+juniper routers
+it service management
+technical support
+incident management
+problem management
+release management
+configuration management
+windows phone development
+apache cordova
+angularmaterial
+transactsql
+ember-cli
+oracle 12c and 11g
+cloudera
+quick learner
+wsus
+nlb
+scvmm
+sccm
+dfs
+adcs
+rds
+onbase
+ecm
+growth hacking
+illustrator cs6
+motion design
+visual identities
+signalr
+stata
+0
+continous integration
+certified scrum master
+oracle pl/sql
+result-oriented
+php (zend framework)
+slb ocean framework
+infragistics
+interoperability
+vtk
+oil & gas
+petrel plugins
+ocean framework
+c# wpf
+ruby on rails - intermediate
+django - beginner
+mongoose
+english course
+english course at ilac in toronto for 3 months
+lived in toronto for 5 months studying english language and working as a cleaner
+computer vision
+ecomer
+microsoft ssas
+microsoft ssis
+sap business one
+sap netweaver
+infolease
+french course
+spanish course
+linux servers administration
+zope/plone administration
+python/zope/plone developing
+python/zope/plone development
+pki administration
+html and front page development
+mcso
+comptia a+
+comptia network+
+mcp.
+it support technician
+0
+volunteer work
+translator
+windows platform
+free software
+performance optimization
+ftp
+ibm rational clear case
+cmd
+mean
+travis-cl
+meteorjs
+0
+karma
+jspm
+systemjs
+tslint
+lodash
+ielts band 7
+ibm mobilefirst
+video editing
+material ui
+swift developer
+psm i
+c# asp.net
+xaml
+uwp
+smooth streaming
+ott
+ms-sql
+team player
+energetic
+enthusiast
+apache storm
+scikit-learn
+ppc
+search advertising
+remarketing
+adobe marketing cloud
+adobe media optimizer
+adobe analytics
+cpa campaigns
+kenshoo
+seam
+jasper reports
+struts mvc
+applets
+w3c
+xslt
+smooks
+gradle
+ormlite
+structured cabling
+server administration
+terminal server
+remote dvr access
+html, css & javascript
+0
+c++ cli
+c++ cx
+rpal
+clang
+cppcheck
+google test
+google mock
+coverity
+cmake
+msbuild
+asp .net mvc 5
+android ndk
+android studio
+jni
+libboost
+libcurl
+visual studio online (ci)
+visual studio 2015
+rabbitmq
+application lifecycle management
+moq .net
+specflow
+f# (begginer)
+couchbase
+countinous integration
+mcts
+mct
+microsoft student partner
+assembler
+sap certified consultant
+hql
+nosql databases
+0
+adobe flex
+motif
+software development using biometry
+temboo
+dynamics nav
+powerpoint
+cisco call manager
+reactivex (rxjava, rxphp, rxswift)
+sphinx
+domain driven design
+exadata
+enterprise manager
+dataguard
+user research
+desktop applications
+navigation flow
+screen flow
+layout
+icons
+mockups
+zeplin
+boardgame
+virtual-dom
+luigi
+storm
+flink
+redshift
+dynamo
+terraform
+google tag manager
+responsive layout
+grid996
+t-sql
+gcd
+coreddata
+uikit
+storekit
+teamcity
+scripting
+roslyn
+70-461 - querying microsoft sql server
+cria��o de dashboards em projetos de business intelligence utilizando datazen/ reporting services 2016
+reporting services 2016
+datazen
+sql development
+windows server 2008 r2
+0
+windows server 2012
+windows server 2012 r2
+0
+0
+0
+0
+0
+microsoft windows 98, 7, 8, 8.1 and 10
+microsoft windows server administration
+findbugs
+arangodb
+blogging
+gpgpu
+rhinocam
+artcam
+mudbox 3d
+3d animation
+fiberglass
+industrial design
+experience design
+nuke
+weka
+rstudio
+the kdd
+cyber
+cyber security
+disaster recovery plan
+it risk
+mobile-first
+sharepoint 2013
+sharepoint 2010
+office 365 add-ins
+nintex 2013
+nintex 2010
+erlang
+photovoltaic
+eletrical plans
+eletric engineering
+energetic efficiency
+ariba network
+sapui5
+fiori
+sap process integration
+fluent spanish
+fluent portuguese
+redux
+react.js basic
+program management
+enterprise risk management
+reactor
+adobe animate
+creative solutions
+drawing
+retail communications
+creative writing
+jaxp
+cabeamento estruturado
+jsr 286
+odbc
+junity
+xstl
+wsdl
+ibm wcm
+ibm websphere portal
+engineering, manufacturing and processes. coordination and maintenance. design, technical operations and equipment installation.
+rational application developer
+opencms 6.x / 7.x / 8.x
+jboss 4.2 / 5 / 6
+.net framework 3.x / 4.x
+asp.net mvc 3
+entity framework 4 / 5
+ado.net
+performance tunning (application / infrastructure)
+android app development
+dojo
+postgreesql
+jython
+ibm web experience factory
+ibm bluemix
+bluemix
+symphony
+openoffice
+performance test planning
+microsoft certified technology specialist - silverlight 4, development
+aerospike
+qmail
+oracle 1z0-803 java se 7 programmer i
+apache tomcat
+0
+centura
+salesforce.com
+solr
+jax-rs
+apex
+batch classes
+visualforce
+managed packages
+soql
+vsual force
+force.com
+system integration
+buildroot
+salesforce administrator
+migration tool
+labview
+c#
+fgfd
+sony vegas
+openbd
+blue dragon
+urbancode
+powerce
+jpro
+jprofiler
+tunning sql queries
+embedded software
+sterling integrator b2b
+tibco
+parse-server
+java (basics)
+0
+graph theory
+netezza
+balsamiq mockups
+businnes analysis
+team foundation server
+backlog management
+conflicts management
+scope management
+database modeling
+programmer in php
+programmer php
+zend framework 2
+kaban
+jfrog artifactory
+calypso
+scrum, xp, lean
+ws-bpel
+jdeveloper
+open esb,
+jboss drools
+testng
+s90.01: fundamental soa & service-oriented computing
+s90.02: soa technology concepts
+system center family
+visual studio code
+c# - basic
+adobe air
+entirex
+ccdp
+cisco wireless technologies
+openfire
+python begginer
+iso 8583
+wmlscript
+emv
+payments
+metaheuristics
+fsrm
+failover cluster
+hp proliant series
+phonegap-beginner
+aws-beginner
+google api's
+xamarin forms
+juniper srx
+routers
+0
+audio editing
+podcasting
+inovator
+praticle
+imovie
+eclipselink
+sonarqube
+kanbam
+0
+motion builder
+espa�ol
+3d design
+illustration, digital paint
+digital painting
+ux / ui design
+character art
+financeiro
+principle
+animate cc
+salesforce cloud consultant
+salesforce sales cloud consultant
+cobit foundation certificate
+scrum fundamentals certified credential
+zendesk administrator
+salesforce service cloud consultant
+0
+0
+0
+game art
+cinema 4d
+rxandroid
+android framework
+x++
+microsoft axapta x++
+level design
+narrative
+game mechanics
+cloudhub
+ibm message broker
+oracle soa suite
+microsoft certified technohttp://app.vanhack.com/skill/reloaduserdetails?length=5logy specialist - 70-515 web applications development with .net 4
+quartz
+saas
+multi-task
+appium
+xctest
+visual basic .net
+pearl
+pl-sql
+db 2
+websphere
+sql server analysis server
+sql server integration server
+cruise control
+restful
+windows system administration
+unix system administration
+angular js (beginner)
+net beans
+unified process
+test driven development
+apple watch
+apple tv
+programmer c++
+rpt
+mustache
+gsap
+scalatra
+apache cxf
+xtream
+sbt
+specs
+hsqldb
+xstream
+i got good s
+java and jadevelopment
+angular.js
+application support
+provisioning
+mobile company
+0
+microsoft certified professional
+nexenta storage
+squid proxies
+ipython
+elastix
+asterix
+mantis
+whm
+ssh
+putty
+plesk
+monodevelop
+coredata
+adobe omniture
+google search console
+retrofit
+mvp
+aop
+fortran
+rails
+oracle discoverer
+oracle bi publisher desktop
+sql and pl/sql tuning
+database tuning
+powercenter
+knime
+talend studio
+rapidminer
+access
+reporting services
+microsft mcse, mcsa, mcp, mcitpro and mcts certifications
+google maps api
+sas
+sas guide
+sas miner
+mdb
+0
+enterprise application architecture
+dbunit
+webdriver
+apache karaf
+fabric8
+apache kafka
+foundation
+corelocation
+avfoundation
+accounts
+adsupport
+audiotoolbox
+mapkit
+webkit
+coregraphics
+pushkit
+alamofire
+afnetworking
+ios native framework
+ios design patterns
+apple human interface guidelines
+wep api
+senior graphic design 6+ years, strong organizational and interpersonal skills, experience all process, from conceptualization to delivery. graduated in graphic design, and now studying  mba in project management for career growth, manage projects and lead teams.  i have learned by companies that worked to always add value to the marketing, competing with the local market. worked managing a team of designers to design packaging design, i like the work environment and all this interaction in support of the expected result  self-motivated: love what i do and always ready to provide support and insights. indesign illustrator photoshop  flash premier after effects blender 3d acrobat
+indesign illustrator photoshop  flash premier after effects blender 3d acrobat
+conversion rate optimization
+expression language
+geb
+handlebars
+swing
+bdd - behavior-driven development
+domain-driven development
+test-driven development (tdd)
+data-driven development
+sinatra
+backend
+pentaho data integration
+scrum master certified
+linux institute professional certified
+application designer - mit professional education
+application developer - mit professional education
+pmp - project management professional
+application designer certified by mit professional education program
+application developer certified by mit professional education program
+cobit foundation certified
+requirements engineer
+phalcon
+drupal 8
+lumen
+es6
+interface tests
+unit tests
+chai
+saucelabs
+checkpoint
+cisco asa
+load balance
+mcsa 2003
+telecom networks
+carrier ethernet
+mvc 4 & 5
+nashorn
+smartcard
+mifare
+mifare plus
+datacard syntera
+datacard capture manager
+laser engraving
+frontend
+opencart
+silex
+d3.js
+Magento Developer
+html/html5
+speak spanish
+android developer
+aspnet core
+happiness
+kafka
+printing production
+successfactors
+ars remedy
+biztalk
+bugs
+javascript dom
+php 5
+php 7
+jboss 7
+0
+flexbox
+angular ui
+ui-router
+corel paradox
+arcgis
+arcgis api javascript
+libgdx
+jme - java micro edition
+link building
+websphere portal server
+portal
+vertica
+briefing program
+videoconferencing
+unified communications
+framer js
+tasy
+embedded systems
+wireless embedded systems
+firmware development
+software installation
+web ana
+web analytics
+sap sd
+sap otc
+implementation
+roll out
+c
+dc/os
+javascript, html, css, bootstrap, angularjs, java, php, cach� db, mump's
+posgresql
+nuget
+cms
+shopify
+content creator
+canva
+microbiome
+adobe flash professional
+system engineer
+check point
+modsecurity
+puppet
+packet filter
+mrtg
+datastage etl
+wicket
+desenvolvimento web, mobi
+transact-sql
+software security
+three.js
+dotnetnuke
+microsoft sql server 2012
+microsoft sql server always on (ha)
+modeling
+rigging
+cross-browser testing
+tsm
+cto
+node js
+openbravo
+scriptcase
+endian
+filmmaking
+padi dive
+maya autodesk
+creative suite
+java security
+spring jpa
+code climate
+travis ci
+spring amqp
+spring cloud
+electron.js
+sfml
+jhipster
+4gl
+dynamo db
+cron
+vignette cms
+infographics
+tools programmer
+sketch app
+3d math
+3ds max
+substance painter
+matte painting
+vfx
+perforce
+jax-ws
+photoshop (beginner)
+intellij
+jongo
+structs
+vtex
+hazelcast
+requeriments gathering
+net compiler platform ("roslyn")
+documentdb
+build automation
+html 5 - intermediate
+bootstrap - basic
+sql server - basic
+oracle - basic
+sql - basic
+firebird - intermediate
+css - intermediate
+javascript - intermediate
+jquery - intermediate
+angularjs - basic
+mvc 4 - intermediate
+linq - intermediate
+webservices - basic
+ms excel
+manual testing
+sketchapp
+prottotype
+layout design
+tacacs
+radius
+api man
+azure api management
+php symfony
+php, javascript, linux
+redmine
+freepbx
+0
+hortonworks
+cloudera impala
+flume
+pig
+hive
+zookeeper
+microsoft sql server  2016
+delphi for android
+delphi for ios
+requirement gathering
+whole mind engagement � healthways usa, nashville (nov/2014)
+international web strategies workshop 2011 - bayer cropscience ag hq, monheim/germany (oct/2011)
+international user experience/prototyping workshop 2008 - bayer cropscience ag hq, monheim/germany (oct/2008)
+marketing global
+balanced scorecard
+dashboards for business inteligence
+presentation skills
+e-commerce and digital marketing management
+google adwords for pharmaceutical industry
+media planning
+microsoft project, jira, scrum, visio and microsoft team foundation (tfs)
+domain in corel draw, photoshop, indesign, dreamweaver, fireworks and flash notions
+platform crm: siebel e salesforce
+development platforms: ios, android, windows.
+office applications: word, excel, access, powerpoint, outlook, lotus notes and others.
+partnership
+campaigns
+business planning
+intranet
+extranet
+web services
+email marketing
+business management
+sales and client relationship
+sales and client focus
+programmer plsql
+ssis
+ssrs
+ssas
+pusher
+prolog
+frameworks php
+digital compositing
+adobe suite
+0
+bamboo
+rpm
+aws redshift
+aws rds (mysql)
+google fusiontable
+sap crm
+php - basic
+windows server administration
+supervisor
+gunicorn
+business modelling
+xbox
+hybris
+angular2 basic
+freshdesk
+material design
+isim - ibm security identity management
+mentoring
+multiplayer server
+jasmine framework
+sun certified web component developer
+oracle certified business component developer
+patterns recognition
+pattern recognition
+neural networks
+object oriented design
+stlc
+pyramid
+threat analysis
+nservicebus
+onesignal
+gson
+android volley api
+postgis
+bing maps api
+wireshark
+postman
+ibm bpm 8.5.x
+scdjws
+integration test
+drawbot
+phantom
+phantomjs
+autodesk sketchbook
+endevor
+american sign language
+pyhton
+bigquery
+data studio
+jupyter
+restfb
+scada
+network programming
+pcl
+javascriot
+backendless
+mdm
+business object
+owb
+memory management
+fragments
+bot framework
+sip
+h264 encoding
+h264 video codec
+sqlalchemy
+sap fi-co
+numpy
+tastypie
+ejb 3
+websockets
+postgres sql
+jboss aplication server
+glass fish
+undertown
+semantic web
+c c++
+hateoas
+eletricista
+agente de monitoramento
+mcsd: web applications
+mcsd - web applications
+mcps - microsoft certified professional
+gridiculous
+marmoset toolbag
+uv layout
+illumination
+art�direction
+illustration�and�digital painting
+movie�edition
+ie�hacking
+ie� css hacking
+git repository
+unit testing
+windows administration
+microsoft certified information technology professional (mcitp)
+microsoft active directory
+network administration
+vmware administration
+windows 7 administration
+system adiministration
+computer networking
+microsoft isa server
+microsoft tmg
+erp sap
+swift basic
+android basic
+node.js basic
+javaslang
+swagger
+lombok
+apache zeppelin
+rxscala
+akka
+visualvm
+netflix oss
+xml/schema design
+pandas
+sap solution manager
+waterfall methodology
+oracle ebs experience
+sap implementation
+sap rollout
+sdlc practise
+integration management
+clarity
+oracle certified professional, java se 6 programmer
+oracle certified expert, java ee 6 web component developer
+vectorization
+data entry
+tef
+signal processing
+audio processing
+video processing
+text processing
+data visualisation
+reports
+pl/sql developer
+progressive web apps
+tortoise
+instructor
+power generation
+maintenance management
+energy
+preventive maintenance
+gempac & deepsae
+systems cummins ...
+cummins engines
+mining
+es7
+symfony
+macaron
+adonis.js
+nativescript
+continuous delivery
+adianti
+ask me more :)
+tvos
+watchos
+writing
+qml
+aeronautics
+matalab
+simulink
+system engineering
+vxworks
+yii2
+3d modelling
+jquery ui
+acting
+voice acting
+painting
+nw.js
+blade
+timber
+hml
+system analyst
+pug
+esp8266
+hardware integrations
+google pro
+google protocol buffers
+rpc system
+mmo
+3d modeling
+character animation
+latex
+impala
+hbase
+sqoop
+spotfire
+python beginner
+game maker studio
+0
+#photoshop
+#illustrator
+#indesign
+#modo
+#maya
+#zbrush
+threejs
+quixel
+0
+ecmascript
+reframe
+intel realsense
+look dev
+mel scripting
+zbrush sculpting
+particle animation
+compositing
+yarn
+flux
+stoplight.io
+eslint
+programmer python
+php, mysql, symfony
+theano
+keras
+vectior
+youtube api
+picasso
+google play services
+restlet
+restkit
+boost c++ libraries
+php mysql javas
+createjs
+math
+telepot
+python/fabric
+shopifyapi
+telegram
+sqllite
+phaser.js
+vanilla js
+kinesis
+aws lambda
+perl6
+Ruby on Rails
+corona render
+shading
+arnold render
+object-oriented analysis and design (ooad)
+jboss portal
+.net compact framework
+jboss for web developers certificate
+hudson
+pmd
+cryptography and network security
+diagramming
+service design
+pgbouncer
+pgpool2
+pgbadger
+novell certified linux administrator
+sublime text 3
+flash animation
+banner ads
+web project management
+teamwork, dedication and honesty.
+high performance clusters
+xcat
+torque
+imex
+cmg suite
+ibm lsf
+adaptive computing - moab
+ibm - lsf
+schlumberger - eclipse
+scientific computing
+redhat
+web scrapping
+bots
+dimensional modeling
+wireless pear to pear and pear to multi pear
+sas di studio
+data quality
+qualidade de
+ccie written
+qos
+big ip
+test design
+functional testing
+network security: wireshark, burpsuit
+client�server application
+content strategy
+codeiginiter
+fluent english and intermediate spanish.
+ability to meet deadlines.
+strong critical thinking skills.
+identify challenges and propose thoughtful solutions
+time-management and team work skills.
+strong work ethic.
+ui bootstrap
+java 7
+oriented object
+liquibase
+0
+aws emr
+extremme programmin
+extreme programming
+experi�ncia em desenvolvimento de sistemas utilizando a linguagem delphi e banco de dados sql, firebird e mssql, manuten��o e instala��o de hardware e software, ingl�s t�cnico e instala��o de adsl banda larga e wireless, linux (ubuntu/centos), windows,  ms office, libreoffice. conhecimento de softwares de backup e rotinas que automatizem o trabalho di�rio.
+easy to learn java programming
+auto cad
+dagger
+tape
+volley
+tuleap
+gerrit
+robotium
+espresso
+calabash
+appdynamics
+java 5
+java 6
+java socket
+spring mail
+apex developer
+activiti developer
+sequelize
+babeljs
+jse
+0
+rmi
+ruby beginner
+freemarker
+microsoft visio
+babok
+java enterprise edition
+software designer
+medical imaging
+dicom
+application servers
+radioloy information system
+ssl certificates
+sso
+dcm4chee
+weasis
+pacs
+java backend
+jboss admin
+ood
+model vi
+scaffolding
+lucene
+aem5
+adobe entity manager 5
+sling
+governance
+�\  domain am / r3, ms project and primavera p.6 intermediate module in sap systems.
+indicad
+scheduling, planning and control of maintenance, total productive maintenance - tpm.
+reading and interpreting technical drawing; metrology
+preparation of schedules and worksheets for shutdowns (weekly schedule, sector, general), closing, processing, reporting (cost, materials, physical progress, etc.)
+knowledge of autocad and solidworks interface with all office package and applications like word, excel, power point, visio, internet, etc.
+abap cds
+sap netweaver gateway
+sap bopf
+sap ui5
+clear quest
+haskell (beginner)
+sysml
+data presentation
+fintech
+online payment processes
+ostgres
+ccna secu
+ccna security
+mcp windows server
+mcsa windows server 2012
+cisco routers
+cisco switches
+php, wordpress, css, html
+okr
+koajs
+implementing datacenters
+maintaining datacenters
+migrating client environment
+web server
+dmz
+design datacenter
+cluster service
+nlb service
+cloud computer
+predicting furure trends
+supervisory skills
+decision making
+managing budgets
+effective delegation
+conflict resolution
+atention to detail
+communication skills
+expert it knowledge
+analitical mind
+high levels of integrity
+negotiating capacity
+corporate loyalty
+iso 270001
+70-480
+ms: programming in html with javascript and css3 � 70-480
+red hat certified system administrator 100-040-674
+sei � information security for technical staff
+sei � fundamentals of incident handling
+dell poweredge
+java (5, 6, 7), java j2ee, javascript, xml, html, css, json, c/c++ (visual c++), visual basic 6, asp, android, sql
+java (5, 6, 7), java j2ee, javascript, xml, html, css, json, visual basic 6, asp, android, sql, rfid
+java (5, 6, 7, 8), java j2ee, javascript, xml, html, css, json, visual basic 6, asp, android, sql, rfid
+people management
+head of software
+behavior driven development
+queues
+uniface
+spree commerce
+full stack
+ec2
+sistem integration arquitect
+arquitetc (application outsourcing system)
+arquitect (system integration)
+arquitect (outsource system application)
+ms project server
+0
+fuzzy logic
+contracts analysis
+customer contracts analysis
+oracle business intelligence
+odi
+php - intermediate
+refactoring
+biometrics
+lan/wan
+wlan
+ipv4
+group policy
+symantec endpoint
+tika
+java (j2se, j2ee, j2me)
+identity mana
+java (j2se, j2ee, j2me), c, c++, c#, .net, vb, html5, javascript, sql.
+struts, spring, hibernate, ibatis, castor jdo, jsp/servlet, jstl, jsf.
+windows, linux
+oracle, microsoft sql server, mysql, postgresql
+apache, tomcat, jboss, oracle application server
+uml, junit, maven, ant, gwt, google maps api
+clear os
+api design
+ipc
+concurrency
+image processing
+system verilog
+llvm
+sass
+oracle bpel
+unity3d - basic
+libgdx - basic
+healthcare
+executive presentation
+iiot (industry 4.0 internert of things)
+prostgresql
+tableau desktop
+tableau server
+data stage
+0
+dw
+crystal reports
+quasar framework
+kubernetes
+pi system
+challenge driven
+working globally
+business oriented
+negotiation capability
+ucd and devops
+sql query
+.net visual basic
+linux red hat regex and server monitoring
+agile and kanban process
+computer maintenance
+django rest
+sap certification abap with sap netweaver 7.40
+11 years of experience of abap programmer
+5 sap implementations
+post implementation support experience
+abap data dictionary, report programming, data migration, screen programming, authorizations, ale/idoc, bapi, bdc, performance tuning, oo abap, database updates, enhancements & modifications and zebra printers
+solid knowledge of sap netweaver and hana studio
+experience with middleware pi
+experience in writing parallel processing program
+experience in sap modules such as sd, mm, pp, pm, qm, fi, co, wm, ps, hr
+sap bi/bo
+twitter api
+zsh
+softwareag webmethods
+webmethods for bpm developers
+asset recovery
+banking
+credit recovery
+bank charges
+banking charges
+ibm integration bus
+java scjp 6 - sun certified programmer for the java platform, standard edition.
+oracle java ee 6 web component developer expert
+angular 2 basic
+html basic
+javascript basic
+css basic
+web service soap
+clojure basic
+avaya site administration
+development of technlo
+development of technology for education
+specialization in accessibility and usability for websites and t
+specialization in accessibility and usability for websites and developing methods to create websites to diversity
+auth0
+onsen ui
+mobile hibrid dev
+any programmer language
+any programming language
+rust
+haskellcore
+couchdb
+requirements analysis
+programmer java
+programmer html
+rational functional tester
+rational quality manager
+rup
+rational requisitepro
+compuware data center real user monitoring (dcrum)
+compuware dynatrace
+selenium ide
+basic bpmn
+agile & waterfall methodologies
+vsts
+data structures
+concept art
+sap nfe
+odata
+sap fs-ri
+reinsurance
+aviation
+quality control
+astm
+lubricants oils
+biodiesel
+claims
+noc
+fujitsu eternus storage
+fujtisu primergy servers
+good logic
+good in teamwork
+easy learning
+bootstrap templates
+rhce
+rhcsa
+devops engineer
+lpic3
+iso/iec 27002
+otrs
+manufacturing execution system
+web applications
+sdlc practices
+it budget management
+asat
+manufacturing knowledge
+uml,pmi,itil,pmbok,xml,requirements analysis,sql,ms-project
+moodle admin
+moodle development
+psql
+experience in the technology industry.
+solving complex technical problems in a systematic way
+prepare and deliver executive level presentations.
+strong consulting and needs assessment skills
+strong time, project management and multi-tasking skills
+ability to conceptually adapt technologies to fit various ideas
+strong knowledge and experience architecting enterprise it solutions
+sinon
+php (laravel)
+groovy (grails)
+java (play 2)
+javascript
+html/css/less
+totvs rm
+fast learning
+creativity
+easer of working in a group
+initiative
+large experience in the banking industry
+experience in mainframe / front-end integration
+experience in batch process
+experience in on-line systems
+experience with cobol, cobol container, natural, procedures language, job control language, sort ibm, tso monitor, sql, db2 and uml.
+java, java ee, spring, hibernate, oracle, xml, jsp, jpa, jsf, c#, asp.net mvc 5, telerik, razor, entity framework, devart, linq, json, javascript, jquery, ajax, html 5, css 3, oracle, pl/sql
+devart
+cfps
+csm
+sap abap developer certified
+sap ps
+vaadin
+oracle responsys interact
+unity ios
+ibeacon
+java, maven, tdd, junit, ireport, jasperreports, action script 3, adobe flex, jsp and servlets
+action script 3
+jsp and servlets
+web application message
+web application messaging protocol
+crossbar.io
+html 5, css3, js, jquery, ajax, angular js,node js
+wordpress,  php,joomla,magneto,bootstrap
+vimscript
+netapp
+qmf
+api instagram
+gt.m
+mumps
+dba oracle
+assp
+advertising planning
+integrated communication
+customer relationship
+lead developer
+java platform
+javascript, css, html5, node, angular, jquery, bootstrap
+python, django framework
+postgresql, mongodb, mysql, sql server, oracle
+fullstack, frontend or backend devlopment
+mobile development, cordova framework
+fullstack, frontend or backend development
+deliverability
+elm
+0
+rethinkdb
+c# specialist
+AWS
+xcelsius
+statistical in
+nprinting
+power bi
+ibm customer analytics
+siebel
+visual basic 6
+google docs
+risk forecast
+strategic mind
+strong communication skills
+0
+shin
+web programmer
+java -
+java - advanced
+jsp - advanced
+servlets - advanced
+jsf - advanced
+rxtx - basic
+primefaces - intermediate
+richfaces - intermediate
+jpa - intermediate
+jdbc - intermediate
+hibernate - intermediate
+junit - intermediate
+tdd - intermediate
+spring mvc - intermediate
+spring security - intermediate
+apache wicket - advanced
+apache tomcat - advanced
+apache maven - intermediate
+apache 2 - basic
+ireport - intermediate
+quartz - intermediate
+html5 - advanced
+css - advanced
+javascript - advanced
+angularjs - intermediate
+ajax - intermediate
+android - intermediate
+sql - intermediate
+restful - intermediate
+soap - intermediate
+json - intermediate
+xml - intermediate
+windows - intermediate
+linux - intermediate
+jenkins - basic
+jira - basic
+svn - intermediate
+git - intermediate
+mvc - advanced
+uml - intermediate
+agile - intermediate
+rfid - basic
+multithreading
+mokito
+workforce management
+lean mindset
+lean six sigma mindset
+application management
+patching
+trainer
+html4.01
+asp.net ajax control toolkit
+jqueryui
+asp.net mvc 5
+microsoft visual basic 6.0
+entity framework 6
+java (android programming)
+silverlight 4
+kendo (telerik)
+bpmn (bpm metastorm e-work)
+bpm
+pmi capm certified
+jeet
+rupture
+ax
+microsoft ax
+microsoft crm
+managed service
+primavera
+prince 2
+identity server
+risk analisys
+sparx systems enterprise architect
+.net core
+certified java programmer
+certified jee architect
+google webmaster tools
+organic seo
+core banking
+dwr
+primefaces/richfaces
+working in groups
+slim
+hp routers
+multicast
+ensemb
+ensemble
+organized, communicative, persistent, friendly, outgoing, initiative person, good relationship with the team work, willingness to new challenges, ability to perform tasks.
+dart
+javascript, angularjs
+c++ directx 11
+c# and vb.net
+hololens developer
+java, rest
+java - (6,7,8) j2se, jee, jersey web services, eclipse rcp.
+css3 - intermediate
+angular.js - beginner
+java (android) - beginner
+mysql - intermediate
+oracle retail
+intermediary english
+implementation of servers based on asterisk, mainly elastix, snep
+configure equipment with sip protocol - ips phones, atas, soft phones
+cisco equipment knowledge, intelbr�s, yealink, audiocodes
+maintaining networks
+pabx
+maintenance routes voip
+price table maintenance
+analyze errors and sipcode and siptrace
+bng
+rbpm
+stakeholder management
+project coordination
+creative direction
+creative planning
+digital strategy
+prototypes
+business development
+basecamp
+filenet
+ibm filenet
+code charge
+excel - vba
+access -  vba
+management of projetct
+linux debian
+etl using ssis (sql server 2014 / package)
+itil operational support and analysis certificate
+itsm based on iso/iec 20000
+information security foundation based on iso iec 27002
+professional scrum master i
+vas
+middleware
+modernizr
+c# mvc5
+probabilistics
+uav
+enterprise resources planning - erp
+totvs protheus
+advpl
+abap - basics
+sap abap - basics
+business process management
+bitrise
+database administration
+it architecture
+astrophysics
+technical architect
+restfull
+boostrap
+archimate
+eda
+solution architect
+application architect
+core data
+git flow
+oracle certified master 11g
+mcse windows server
+mcse windows server 2012 infrastructure
+mcitp windows 7enterprise administrator
+rancher
+containerization
+linux advanced
+ccna knowleges
+vmware esxi
+voip
+shell
+squid proxy
+proftpd
+snort
+cacti
+cash flow
+business strategy
+sales strategy
+15 years of experience
+opensips
+nis
+slackware
+lighttpd
+ntop
+snarf
+bacula
+amanda
+excel advanced
+network troubleshooting
+advanced skills on computer networks
+spam control
+tcpdump
+corel draw
+pagemaker
+bullet physics
+adaptability
+microsoft navi
+golden gate
+datawarehouse
+willingness to undertake new goals, in the technological and administrative field, fully complying with the assigned activities within the established time.
+targit
+programmer c#
+sugar
+sugarcrm
+nltk
+hard work
+reliable
+transparent
+honest
+detail oriented
+methodic
+3d environment artist
+mcse data plataform
+mcdba
+landing page
+vector illustration
+asp.net developer
+architecture analysis
+core data services
+hana core data services (cds)
+backend development
+hana sqlscript
+silktest
+java ee developer (ejb,jpa, hibernate, jax-rs, jax-ws)
+jsf 2
+corona sdk
+digital certificate
+curso de computacion
+ayudante de refrigeracion
+ayudante de barra
+personal de mantenimiento
+ayudante de carga y descarga de mercancia
+ayudante de construcion
+aspose r
+aspose reports
+amcharts
+flyway
+kernel development
+direc
+business profile listing
+white hat link building
+koala
+brackets
+sqlserver
+mechanical design
+mathcad
+ansys
+wind energy
+piping
+sap bps
+sap bi
+sap sem
+fox programming
+script logic
+sap analysis for office
+budgeting
+forecasting
+sap bsc
+sap cpm
+freenas
+oracle database administrator (10g, 11g and 12c)
+mysql administrator (version 5.0, version 5.5, version 5.6, version 5.7)
+photoshop
+user tests
+xunit
+nunit
+mstest
+magnolia
+scorm
+bsda certification
+bsda certified
+raml
+is-is
+extreme networks
+webmin
+drbd
+heartbeat
+dcaa
+kivy
+bokeh
+facilitation
+certified product owner
+core java
+oops
+j2me
+angular 2
+windows deployment server
+magento 2
+manjaro linux
+psd-2-html
+webwriting
+call manager
+cable modem
+stb
+docsis
+packetcable
+geoprocessing
+cartoon
+visual storytelling
+storyboard
+java system su
+java system support
+ejb3 +
+activity
+advanced english
+design user experience
+freeswitch
+turbogears
+xampp
+protheus
+protheus advpl (totvs)
+filezilla
+art director
+ca sdm
+java (6, 7, 8)
+relational database
+requirementsanalysis and
+analysis and requirements
+conflict management
+networks point to point
+maintenance printers
+pc maintenance
+windows 98-10
+database acces
+database sql server 2000
+language c
+visual fox pro
+html/ html 05
+websites
+microsoft offices packages
+wxpython
+basic german
+high-level shading language
+final cut
+apple motion
+contract management
+design mobile
+casperjs
+responsive development
+http
+PHP
+architeral patterns
+architectural patterns
+factory method
+experience in industry system automation analysis, understanding customer requirements and providing solutions for factories in a large range of segments, supporting the commercial team on the analysis of costumer needs.
+?\  experience in industry system automation analysis, understanding customer requirements and providing solutions for factories in a large range of segments, supporting the commercial team on the analysis of costumer needs
+good adaptation in new positions and environments
+courage and determination to change paradigms
+analytical and critical thinking skills
+great self-esteem, determined and resilient to achieve the goals.
+passionate about new knowledge, technology and innovation
+prometheus
+3dmax
+english - toefl
+spanish - mother tongue
+portuguese - celpebras
+work well with others
+sensitive
+supportive
+cooperative
+motivate others
+delegate effectively
+doxygen
+hdf5
+project management based on pmbok 5th edition
+network protocols
+online charging
+3g, 4g service
+data mart
+ibm cognos
+ibm mq
+sap bo data service
+sql server 2008
+etl technical leader
+web optimization
+web performance
+software architectre
+butter knife
+cocos2d
+zxing
+b4
+b4a
+b4i
+b4j
+windows mobile
+orange pi
+apple scripts
+car integration
+smart cities
+smartwatch
+office suite integration
+html/ css/ javascript, php, mysql, mysqli
+computacion basica, excelente desempe�o para organizar, buena habilidad para aprender, trabajo en equipo, puesta en marcha de iniciativas, buenas relaciones personales.
+windows developer
+schema registry
+2d art
+indesign cs6
+adobe media encoder
+3d builder
+daz studio 4.9
+camtasia
+redes
+russian
+ukrainian
+agile software development, stlc & sdlc team viewer, bugzilla, jira testing of mostly desktop applications in .net and some web pages using qa testing techniques like regression testing, black box testing, negative testing, acceptance testing, alpha?beta testing, load testing, exploratory testing data recovery software, ms office (access, excel, etc.)
+gui developer, bootstrap, dot net technologies
+html5 & css3
+software quality assurance
+plumbing engineer
+crossplatform
+target achievement oriented.
+business results oriented
+strong leadership
+teamwork oriented
+effective written and oral communication skills in multiple languages
+excellent organizational skills
+strategic planning competencies
+experience in full project lifecycles from new business development to final delivery
+problem solving skills
+process improvement skills
+trustworthiness & ethics
+strong reliability
+fluent in speaking and writing english, portuguese and spanish (native) languages
+community mnager
+altium design
+orcad capture and layout
+willpower
+tina
+mechatronics
+organizational skills
+-\  workflow planning
+-\  project management
+-\  productivity improvement
+-\  systems installation, configuration & upgrading
+-\  security solutions
+database design
+-\  training & mentoring
+-\  the ability to work independently, regardless of the set tasks and their complexity
+-\  the ability to think analytically and to predict the situation
+-\  knowledge of telecommunications and it technologies
+critical thinking
+-\  self-motivation
+programming
+adobe experience manager 6.1
+rhcva
+lpic2
+geoframe
+paradigm
+landmark
+ruby on rails - advance
+graphql
+easyui
+arquillian
+chrome extensions
+large underwater robotics systems knowledge
+hydraulic systems up to 10k psi
+hydraulic systems
+strict adherence to safety requirements
+strong ability to identify, analyse & solve problems
+strong team work spirit
+team work spirit
+work experience with people from different nationalities
+leading skills
+maintenance and repair
+efficient spanish spoken
+data protection
+qt (c/c++)
+jpql
+rests
+wso2is
+wso2as
+wso2emm
+proteus
+microsft skills
+brand development
+communciation
+it skills
+customer service
+business startegy
+digital banking
+retail banking
+shared services
+supply chain
+logistics
+c++ basic
+2320
+hse
+nebosh
+nebosh - national examination board in occupational safety & health, uk
+water survival and swing rope training
+mobile application development
+android app development
+android studio
+cascading style sheets (css)
+flexibility
+competitiveness
+NetSuite
+effective communication and problem solving skills. effective use of initiative.  integrity and transparent honest. ability to read and write report, competence in microsoft package. ability to work with little or no supervision.
+adobe premiere 13.0
+mulesoft
+docker, linux, unix, itil, operating systems, mysql, sql, php, unix shell scripting, redhat linux, teaching, open source, network engineering, c #, javascript, xml, scripting, information technology, information management, asp.net, web design , e-learning, e-learning consulting, photoshop, coreldraw, team leadership, shell script, information technology, ibm aix, servers, solaris, analytic problem solving, problem solving, websphere mq, eclipse, project coaching, monitoring services, performance monitoring, servers, page 6, jboss application server, websphere datapower, operating systems, bluemix, android development, angularjs, ionic, amazon web services, amazon ec2
+unix shell scripting
+redhat linux
+network engineering
+information management
+websphere datapower
+amazon ec2
+self-motivated
+proactive
+postegres
+apache spark
+computer office (word, excel, internet ...) 2004.
+dynamic, serious, punctual, ability of group work, meaning public relations developed, health physics and excellent morality, spirit of initiative, sportsman.
+arabic: read, spoken and written (excellent). french: read, written and spoken (very good). english: read, written and spoken (beginner).
+live streaming
+technical recruitment
+gorilla
+code igniter
+kong
+ffmpeg
+mencoder
+envers
+tensorflow
+web application testing
+database testing
+history
+export
+import
+foreign trade
+logistcs
+international freight
+customs compliance
+certifica��o 6-sigma white belt � escola edti
+programmer javascript
+elastic beanstalk
+plc programming
+robot programming
+rrd - round robin database
+apache qpid
+ci/cd automation
+netconf protocols
+icontrol f5
+snmp, wmi, nagios, zabbix
+print server
+Big Data 
+Big Data 
+amazing coffee
+responsible, committed, respectful, friendly, proactive, adaptably and intelligent
+responsible
+committed
+respectful
+System Administration
+user-experience design, interactive design, art direction, motion design entertainment internet software graphic design estrate?gia criativa experie?ncia do usua?rio management entrepreneurship development acting creative entrepreneurship comedy creative visualization marketing digital gesta?o design de interface do usua?rio interaction design theatre entrepreneurship creative strategy internet culture internet entrepreneur film creative services design gra?fico design de interac?a?o empreendedorismo web design
+elk stack
+orientdb
+taffydb
+approach to
+health and safety skills
+working with tools and machinery
+adobe character animator
+yocto project
+embedded linux
+oracle repport
+aws s3
+aws services
+apache beam
+frin
+server less
+forniture design
+delivery processes
+eclipse
+tax receiver
+erp consulter
+commis chef
+oracle apex - expert
+ms dynamics ax
+analisys
+out of the box
+crisis management
+business travel
+inventory management
+pipefy
+duplo
+viper
+xcode server
+auto layout
+server side swift
+vapor
+nashorn
+novo skill de teste
+balckbaud cr
+blackbaud crm
+leasing & auto finance domain
+javascript
+reactjs
+sql
+leaflet
+ux design
+c#
+storekeeper
+scrum
+apache 2
+antispam trend micro
+antispam intel mcafee
+syslog
+continuous deplument
+hangfire
+kendo mvvm
+design de interface
+java
+nancyfx
+asp.net core mvc
+asp.net core
+css
+inventory
+warehouse
+composer
+angular 2
+mysql
+mysql
+ansi c
+web servers administration: apache, nginx, iis, lighttpd
+php extension development
+qmail, vpopmail, sendmail, postfix
+wcf
+oracle applications framework (oaf)
+technical lead
+ubiquiti
+html 5
+qlik sense
+qlik sense
+qlik sense
+manejo de personal
+desarrollo de controles de supervisor  de materiales
+dotnet core
+gitflow
+vagrant
+power bi
+revit
+sketchup
+database administration (ms sql server).
+conocimiento avanzado en  instalaci�n de redes.
+programming knowledge in c ++ and c # language.
+administration of windows server and linux servers.
+advanced knowledge in programming visual basic.net and asp.net
+android, angular, meteor, node,
+devops, aws, docker, java, linux, mysql, php, postgresql, python, scala
+imagmagick
+scraping
+curl
+art director
+kicad
+application support
+python
+javascript, css, html5, angular, jquery, bootstrap
+deep learning
+marvel
+software technical support analyst
+repair on mac os x servers
+support web aplication
+classic asp
+bootstrap
+jquery
+mvc
+kibana
+ops
+infor baan/ln
+mac os
+writing
+php
+java (5, 6, 7, 8), java j2ee, javascript, xml, html, css, json, visual basic 6, asp, sql
+stash
+c
+java server faces
+abl language
+websphere liberty profile
+graphic design
+graphic design
+typescript
+heuristic evaluation
+visual force
+engineering analyst
+infor baan/ln developer
+indesign cc
+erp
+lightning components
+wave analytics
+umbraco
+linq
+turi
+postgresql
+c#
+c#
+c#
+programmer
+ms project
+pmbok
+clarity
+javascript
+node.js
+technical leadership
+oracle rtd
+sas visual analytics
+java portlets
+scrum product owner certified
+analysis: structural and functional
+french basic
+portuguese fluent
+microsoft message queue
+ibm rtc
+angular.js
+angular.js
+angular
+sass/less
+marko.js
+boiler operator
+sales engineer
+jackrabbit
+testcomplete
+automated testing
+german course
+apex
+yii, version 1 and 2
+java
+angular js
+ajax
+j2ee
+windows server 2016
+datacenter virtualization
+netvault
+c
+qlik sense desktop
+pentaho data integration
+shell script
+python
+codeigniter
+magento
+performance test
+performance test
+pyhton
+shiny
+shiny
+shiny
+javascript
+testing
+c#
+c#
+yml
+symfony 1.4
+symfony 3
+doo php
+jsplumb
+webgl
+web architecture
+razor
+ndk
+bootstrap
+moodle elearning
+moodle development
+educational instructor
+mysql
+typo3
+seo
+microsoft visual studio
+mysql database
+java - (6,7,8) j2se, jee, jersey web services, eclipse rcp.
+problem solving skills
+mps.br
+cobol
+leaflet
+carto
+smacss
+acss
+web sockets
+acss
+leaflet
+carto
+riak
+gatling
+performance testing
+typescript
+webpack
+sql server
+bi
+html and css
+yii framework
+object oriented programming
+saas (software as a service)
+c#
+php
+java
+pythondjango
+drupal
+it consulting
+it training
+ms frontpage
+graphic design
+project management
+project management
+mean stack
+mean stack
+visual design
+scketch
+invision
+c#
+ibm maximo
+management 3.0
+agile leadership
+mvc 5
+kanban
+predictive analytics
+grafana
+netcool
+json
+civil engineer
+performance testing
+sikuli
+sql (mysql, postgresql)
+java (5, 6, 7, 8), java j2ee, javascript, xml, html, css, json, sql
+power builder
+php devloper
+php devloper and security
+coaching
+scale agile framework
+scaled agile
+html 5, css3, js, jquery, ajax
+octopus deploy
+cucumber
+team leadership
+java 6
+tesseract
+docker
+creative
+itil
+javascript, css, html5,jquery, bootstrap
+javascript, jquery
+photoshop
+investigaci�n de mercados
+contabilidad
+project management
+t-sql
+.net core
+asp.net core
+mqtt
+serverless
+pycharm
+borland
+mathlab
+java (6, 7, 8)
+bdd
+gradle, ant, maven knowledge
+gradle, ant, maven knowledge
+ejb 3+
+ehcache
+nginx
+html 5
+risk management
+risk management
+sql server integration services
+php
+html/css/
+java
+bootstrap
+google cloud platform
+camel
+datastore
+ios
+ios
+symfony 3
+mainframe
+mainframe
+cics
+adabas
+cobol/400
+mainframe
+rdng (rational doors next generation)
+matlab
+web developer
+database programmer
+web designer
+programmer in visual basic .net
+java developer
+system analysis
+cloud basic knowledge (azure, aws, google cloud platform, firebase)
+mobile technology
+meteor
+snapsvg
+tecnico de soporte,
+t�cnico profesional en continuo proceso de aprendizaje, con esp�ritu emprendedor, innovador, con alto sentido �tico y de responsabilidad.  mis excelentes relaciones personales permiten adaptarme con facilidad en el desarrollo de las responsabilidades asignadas. mis competencias como t�cnico profesional de sistemas se aplican en los siguientes perfiles, basados en el conocimiento y en los 4 a�os de experiencia adquirida en cada uno de ellos. �\ administrador de sistema, soporte t�cnico remoto, y mantenimiento en  hardware y software.  �\  experiencia redes inal�mbricas y redes internas de punto a punto red cableada cable utp cat 5.   �\ instalaciones de c�maras de seguridad circuito cerrado interno y v�a remota configuraciones  smartphone inteligente.  �\  experiencia en dise�o gr�fico en los programas, photoshop, cinema 4d e illustrator.  �\ conocimientos b�sicos de autocad, dise�o de p�gina web.
+atom
+oracle 11g
+yii2
+atam - architecture tradeoff analysis method
+message queue
+solid
+automotive embedded electronic development
+automotive tests
+v model development
+laravel
+laravel
+php - basic
+c#
+aerohive
+aerohive
+j
+j
+j
+kibana
+grafana
+influxdb
+galera cluster
+php - sql - javascript - jquery - ajax - html - css
+c#
+git
+spock framework
+protractor.js
+haproxy
+digitalocean
+entity framework 4 / 5
+ccna 200-120
+java ee
+angularjs
+usability
+localization and cat tools
+new relic
+redhat virtualization manager
+php
+zeromq
+new relic
+amazon ec2 container service
+java
+mssql server
+pl/sql
+c#
+progressive enhancement
+postcss
+creating personas
+openocd
+aws
+terraform
+ios
+corporate development
+international business
+ad words
+c# windows application
+httparty
+pdca
+service mix
+uml, maven, ant
+boomi
+birst
+salesforce analytics
+metaprogramming
+r
+c
+jsx
+flux
+material-ui
+sourcetree
+agile methodologies
+agile methodology
+programmer in delphi
+programming in advpl totvs protheus
+html 5
+html 5
+c#
+coldfusion
+javascript
+bi tools
+prince2  foundation certified
+german
+ubuntu
+stored procedure (mysql)
+arts; corel draw; vectors; illustrations
+arts; corel draw; vectors; illustrations
+arts; corel draw; vectors; illustrations (10+ years)
+siebel developer
+prototypes
+javascript
+siebel developer
+development siebel
+css
+javascript
+docker
+automation
+analysis services
+active directory
+mongodb
+api rest
+sqlserver
+java
+team leadership
+antivirus protection
+power bi
+git
+product development process
+.net
+jquery
+�\  proficient in microsoft office (word, excel, outlook, powerpoint, visio). �\  expert knowledge of sql and relational database management systems. �\  skilled with wrike and attask project management software. �\ experienced with edi standards and processing. �\ experienced with water falls and agile software development methodology. �\ expert knowledge with analysis of javascript, c#, vb,net , asp,net, crystal reports, cognos, sql, cobol, cics, ims, mvs,  tso.
+c#
+salient uxt
+sap security
+z/os
+java
+html
+laravel 5
+3d animation
+javascript
+sketchup
+sketchup
+project management
+project management
+logistics
+html/htm5
+advertising
+objective-c, html5, redis, zeromq, or mongrel
+vuejs
+desenvolvimento
+linux
+programming javascript
+illustrator
+angular 2
+information security
+c++ builder
+c#
+c#
+c#
+it project management
+webrtc
+javascript
+c#
+visual studio 2010
+modeling
+v-ray
+modeling
+edius
+concept art
+c#
+javascript
+jquery
+jquery
+react
+php
+monitoring systems
+server monitoring
+email template xhtml
+c#
+php
+php
+java
+jquery
+angular.js
+git
+unit testing
+erp consulting
+python, django framework
+html 5, css3, js, jquery
+c#
+stylus , sass, less
+systems analist
+nginx
+c#
+robot creation
+seo
+c sharp
+banner ads
+server4you
+google web designer
+adwords
+c sharp
+c#
+sql - avanced
+c#
+node
+modernizr
+qlikview
+node.js
+javascript
+javascript
+javascript
+java
+redis
+rest api
+pl/sql developer oracle
+python
+c#
+angularjs
+java
+object orientation
+c#
+angularjs
+spring security
+hibernate
+jsf
+.net asp mvc
+erp
+project management professional
+birst
+java ee
+camel
+project management
+project management
+user-centered design
+research & analysis
+information architecture
+creating personas
+user journey
+writing scenarios
+prototyping
+usability testing
+visual design
+layout
+implementation planning
+certified ethical hacker
+aws
+ruby
+.net c#
+c#
+linux servers
+node js
+c#
+c#
+beagle bone black
+pbr texturing
+high poly modeling
+highpoly modeling
+pbr texturing
+highres sculpting
+lowpoly modeling
+retopology
+mapbaking
+c#
+hardsurface modeling
+world machine
+slack
+technical responsible
+management
+sketch app
+c#
+instagram
+cakephp
+postgresql
+wan
+dansguardian
+json
+sql
+c#
+suport
+ge smallworld products
+html 5, css3, js, jquery
+c#
+payara server
+javascript
+terraform
+consul
+packer
+c#
+inbound marketing
+marketing automation
+seo
+content marketing
+inbound sales
+hp-qtp
+sqs test
+splunk
+it security
+postgresql
+automation
+c#
+c#
+cumplir objetivo
+c#
+c#
+html 5, css3, js, jquery, ajax, angular js
+c#
+c#
+rdbms
+google cloud platform
+html5 css javascript
+mobile development - android native
+development platforms:android
+google adwords api
+html 5, css3, js, jquery
+php
+nodejs
+nodejs
+java (android programming)
+ielts band 7.5
+load runner
+php
+software development lifecycle (sdlc)
+ruby on rails
+php
+javascript
+selenium webdriver
+javascript
+foundation spring data
+amazon aws
+asana
+codeship
+salt
+jekins
+matlab
+c#
+c#
+javascript
+c#
+c#
+c#
+rails
+python
+ccs3
+c#
+jquery
+ruby
+html5
+c# developer
+html, css
+jquery
+webapi
+unit testing
+c #
+atomic design
+user centered design
+redis
+rabbit mq
+ruby
+neo4j
+docker
+marvelapp
+indesign
+sharepoint designer
+affinity
+netbackup symantec
+javascript
+css
+css
+recommender systems
+php
+jva
+high performance systems
+slemma
+devops
+jquery ajax
+test unit
+gitflow
+cloud66
+knowledge in the information area
+audity
+delphi
+backend development
+objective-c
+project management disciplines (pmbok v4)
+project management tools (ms project server, jira, ms office, vba).
+erp consultant
+tvos
+html 5, css3, js, jquery, ajax, angular js
+user interface design
+user interface design
+erlang
+c#
+mysql
+kajka
+c#
+it strategic planning
+process management
+mtcna - mikrotik certified network associate
+bpmn
+linux
+rxjava
+rxjava
+objective c, swift
+sip
+javascript
+office pack
+angular js
+androi s
+android api
+c#,c++
+mysql
+responsive design
+doubleclick for publishers
+c#
+storage logistics
+computer support especialist
+dagger 2
+dagger 2
+rxjava
+git
+open source
+c#
+c#
+angular 1
+agile
+etabs
+lulowin
+etabs
+smm
+sql
+ruby
+s.o.l.i.d. principles
+solid principles
+handlebarsjs
+xml
+npm
+?\  skill management improvement projects and cost savings
+?\  skill in handling statistical tools
+?\  sales
+?\  customer service
+?\  experience in training, supervision, personnel management in results achieve
+machine learning
+conocimiento
+e
+mysql
+symfony
+angular
+bower
+prestashop
+tortoise svn
+visual code studio
+illustrator
+illustrator
+angular 4
+ruby on rails
+java
+c#
+c++
+python
+avr assembly
+avr assembly
+ssl
+ida pro
+ollydbg
+cryptography
+security architecture
+git
+high performance computing
+ajax
+solid
+css
+html
+rxtx
+html, css, jquery, ajax
+c#
+terraform
+technical leadership
+caching methods
+build pipelines
+osx
+c#
+gitlab-ci
+travis-ci
+terraform
+c
+c#
+c#
+project management
+project management
+project management
+java
+organization and analysis of information
+ruby
+php
+nosql
+c#
+c#
+html 5, css3, js, jquery, ajax, angular js, node js
+c#
+front end web development
+javascript
+tm1
+cognos bi
+certified tester foundation level
+certified tester foundation level
+agile tester
+adobe cc suite
+automation test
+certified agile tester
+angular
+specialist web development with php, sqlserver, database developer/administrator
+php, mysql, javascript, html5, dreamweaver, css3, jquery, ajax, json.
+�\  advanced use of codeigniter, laravel and drupal frameworks
+web hosting administration
+application development for ios and andorid
+i specialize in web applications and full stack development, from the design of the database to the implementation of css, opting for the best environments and platforms to meet clients' needs
+react
+pdpunit
+phpunit
+java
+android
+spring
+spring
+google tango
+mqtt
+c#
+lua
+firewall (pfsense, iptables)
+magento solution specialist certified
+dagger 2
+butterknife
+logo design
+c#
+drupal
+manuten��o
+manuten��o
+ruby
+docker
+monitoring
+typescript
+golang
+frontend
+function points analysis
+fix api
+c#
+awk
+terminal/bash
+hybernate
+java8
+java frameworks
+github page
+iso 27002 certification
+c#
+c#
+c#
+jbehave
+sencha test
+rancher
+networking
+system center family
+system center family
+microsoft operations management suite
+oracle vm
+arcserve
+microsoft app-v
+microsoft deployment toolkit
+prtg
+servicenow
+bmc remedy
+html5
+quickfix
+ruby on rails
+network administration
+java
+java
+mongodb
+certified scrum product owner
+certified safe agilist
+certified scrum product owner
+italian
+databases
+databases
+gwt
+maven
+c# (web development)
+java
+cake php
+django
+network engineering / programmer
+network engineering
+network engineering
+server administration printers
+receptionist
+ruby
+c#
+prince2
+c-sharp
+best practices
+python
+assembly
+pdca
+redis
+amqp
+digital transformation
+mes
+oracle api gateway (oag)
+xquery
+php developer
+laravel, codeigneter  frameworks
+vb.net
+gulp
+gulp
+react.js
+mysql
+sqlserver
+fireworks
+html/css
+gulp
+ruby
+solid principles
+object calisthenics
+research
